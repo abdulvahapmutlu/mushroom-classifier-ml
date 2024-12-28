@@ -87,15 +87,15 @@ pip install -r requirements.txt
 The following outputs are generated and stored in the `outputs/` directory:
 
 1. **Confusion Matrices:**
-   - Located in `outputs/confusion_matrices/`.
+   - Located in `outputs/`.
    - Visual comparisons of true and predicted classifications.
 
 2. **Learning Curves:**
-   - Stored in `outputs/learning_curves/`.
+   - Stored in `outputs/`.
    - Plots of training and validation loss over iterations.
 
 3. **SHAP Summary Plots:**
-   - Found in `outputs/shap_summary_plots/`.
+   - Found in `outputs/`.
    - Visualizations highlighting the most influential features in the mushroom classification task.
 
 ---
